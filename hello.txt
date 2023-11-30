@@ -20,3 +20,4 @@ hello chuimao! hello world!test master
 hello chuimao! hello world!test hot-fix11111
 add dev
 add master master master
+add dev dev dev
